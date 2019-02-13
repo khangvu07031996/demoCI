@@ -1,7 +1,7 @@
 sudo: required
 env:
   global:
-  - IMAGE_NAME=khangvu0703/demo-nodejs-CICD
+  - IMAGE_NAME=khangvu0703/demo-nodejs-cicd
 services:
 - docker
 before_script:
